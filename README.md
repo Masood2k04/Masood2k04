@@ -4,7 +4,7 @@
 <img align='left' alt='coding' width='1000' src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHI0YWdpeXp0czFyOWg4dHRxeGxxOWNjMHM5cm1sYTNxOWhzcTdmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masood2k04&label=Profile%20views&color=0e75b6&style=flat" alt="masood2k04" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masood2k04" alt="masood2k04" /></a> </p>
+
 
 - 🌱 I’m currently learning **JavaScript , PHP ,Laravel ,MYSQl ,SQL ,C# and some web designing**
 
